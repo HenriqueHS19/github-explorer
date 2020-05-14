@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     # Entar no diretório
     $ cd github-explorer
 
-    # Instala dependências do projeto
+    # Instalar as dependências do projeto
     $ yarn
 
     # Inicia o projeto
